@@ -1,0 +1,46 @@
+    <div class=" d-flex container">
+
+            
+
+                <div>
+                    <img width="300rem" src="https://hasanraza38.github.io/saltnpepper/assets/images/nav-logo.webp" alt="nav-logo">
+                </div>
+
+
+
+                <div class="d-flex gap-5 ">
+
+                    <a class="navlinks" href="#">Home</a>
+                    <a class="navlinks" href="#">About Us</a>
+                    <a class="navlinks" href="#">Publications</a>
+                    <a class="navlinks" href="#">Feedback</a>
+
+                    <a href="./franchise.html"><button id="franchise" class="rounded">Get a franchise</button></a>
+                    <button id="order-online" class="rounded-pill">Order Online <span class="bg-light rounded-pill" id="btn-icon"><i class="fa-solid fa-arrow-right" id="red"></i></span></button>
+               
+
+                </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </nav>
+
+
+
+
+
+
+        </div>

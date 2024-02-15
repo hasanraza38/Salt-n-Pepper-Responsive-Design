@@ -3,28 +3,50 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    
 }
 
 #background-color{
     background-color: #000000;
 
 }
+#navbar{
+    width: 100%;
+    padding: 0.7vh 2vw;
 
-nav{
-    background-color: transparent;
 }
 
-ul{
-}
-.navlinks{
-    color: aliceblue;
-    text-align: ;
-    text-decoration:none;
-    list-style: none;
+
+
+.nav-links{
+    color: #f0f8ff;
+    margin: 2vw;
+   
 }
 
 
 :root{
+--red:#ed1c24;
  
-    
+}
+
+#red{
+    color: var(--red);
+}
+#franchise{
+color: #f0f8ff;
+background-color: transparent;
+ border: 1px solid white;
+ padding: 15px 20px;
+cursor: pointer;}
+
+ #order-online{
+        background-color: var(--red);
+        border: 0px;
+        padding: 5px 5px;
+        cursor: pointer;
+}
+
+#btn-icon{
+    padding: 0.3vw 0.5vw;
 }
