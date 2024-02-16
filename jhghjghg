@@ -36,6 +36,44 @@
 
 
 
+                <div id="navbar" class="d-flex justify-content-sm-evenly justify-content-md-evenly justify-content-lg-evenly align-items-center">
+
+                    <i id="bars" class="fa-solid fa-bars"></i>
+                      <div class="logo">
+                        <img id="nav-logo" width="160vw" src="https://hasanraza38.github.io/saltnpepper/assets/images/nav-logo.webp" alt="logo">
+                    </div>
+                    <div class="nav">
+                        <nav id="navbar-items" class="d-flex justify-center  align-center wrap">
+                            <a class="nav-links" href="#">Home</a>
+                            <a class="nav-links" href="#">About us</a>
+                            <a class="nav-links" href="#">Publications</a>
+                            <a class="nav-links" href="#">Feedback</a>
+                            <a href="#"><button id="franchise" class="rounded-pill">Get a franchise</button></a>
+                <a href="#"><button id="order-online" class="rounded-pill">Order Online <span class="bg-light rounded-circle" id="btn-icon"><i class="fa-solid fa-arrow-right" id="red"></i></span></button></a>            
+                        </nav>
+                    </div>
+                
+                
+                
+                
+                
+                
+                
+                </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             </nav>
 
 
